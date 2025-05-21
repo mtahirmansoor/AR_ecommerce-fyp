@@ -25,7 +25,7 @@ function App() {
               "url": "https://github.com/mtahirmansoor/AR_ecommerce-fyp.git",
               "version": "1.0.0",
               "license": "https://opensource.org/licenses/MIT",
-              "programmingLanguage": "JavaScript, Unity, C#",
+              "programmingLanguage": "JavaScript",
               "keywords": [
                 "Augmented Reality",
                 "eCommerce",
@@ -34,21 +34,14 @@ function App() {
                 "RetailTech"
               ],
               "screenshot": "https://yourwebsite.com/images/ar-ecommerce-demo.png",
-              "isAccessibleForFree": true,
-              "offers": {
-                "@type": "Offer",
-                "price": "0",
-                "priceCurrency": "USD"
-              }
+              "isAccessibleForFree": true
             })
           }}
         />
       </head>
       <h1 className="text-center mb-4">AR-based eCommerce </h1>
       <p>
-        This is the final year project (FYP) for the BSCS program. It aims to revolutionize
-        online shopping using Augmented Reality (AR) technology. Users can visualize products
-        in their environment before making a purchase decision.
+       This Final Year Project (FYP) is developed as part of the BSCS program and introduces an innovative way to shop online using Augmented Reality (AR). With this platform, users can place and preview products in their actual environment through their smartphone — helping them make confident, informed buying decisions before they ever click “buy.”
       </p>
       <h3 className="mt-4">GitHub Repository</h3>
       <a
