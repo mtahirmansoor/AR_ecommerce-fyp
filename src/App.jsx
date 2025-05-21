@@ -33,7 +33,7 @@ function App() {
                 "FYP",
                 "RetailTech"
               ],
-              "screenshot": "https://yourwebsite.com/images/ar-ecommerce-demo.png",
+             
               "isAccessibleForFree": true
             })
           }}
